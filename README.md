@@ -1,3 +1,2 @@
-# up
-#### Programación con IA Generativa 
-#### Universidad de Palermo
+#### Programación con IA Generativa 🤖 
+##### Universidad de Palermo
